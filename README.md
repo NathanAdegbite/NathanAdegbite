@@ -11,10 +11,10 @@ Network Engineer in progress — CCNA-certified, First-Class Honors graduate in 
 
 ## 🛠️ Skills
 
-**Networking:** Routing & Switching (OSPF, VLANs, Trunking, EtherChannel, STP), NAT, ACLs, DHCP, Inter-VLAN Routing.
-**Security:** AAA, SSH hardening, port security, DHCP snooping.
-**Tools:** Cisco Packet Tracer, Cisco IOS CLI, Wireshark, GNS3.
-**Certifications:** CCNA | CompTIA Security+ (in progress).
+- **Networking:** Routing & Switching (OSPF, VLANs, Trunking, EtherChannel, STP), NAT, ACLs, DHCP, Inter-VLAN Routing.
+- **Security:** AAA, SSH hardening, port security, DHCP snooping.
+- **Tools:** Cisco Packet Tracer, Cisco IOS CLI, Wireshark, GNS3.
+- **Certifications:** CCNA | CompTIA Security+ (in progress).
 
 ## 📂 Featured Project
 
